@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachana1711das
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on frontend and data amalisis projects
+- 💞️ I’m looking to collaborate on frontend and data analysis projects
 
 
 <!---
